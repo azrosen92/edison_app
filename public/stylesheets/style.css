@@ -6,3 +6,31 @@ body {
 a {
   color: #00B7FF;
 }
+
+h1 {
+	text-align: center;
+}
+
+.half {
+	width: 50%;
+	float: left;
+	margin-top: 80px;
+}
+
+#about-cpus {
+	margin-right: 15px;
+	margin-left: 15px;
+	text-align: center;
+}
+
+#about-networks {
+	margin-right: 15px;
+	margin-left: 15px;
+	text-align: center;
+}
+
+.icon-image {
+	width: 30%;
+	height: auto;
+	margin-bottom: 10px;
+}
